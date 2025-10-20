@@ -96,7 +96,11 @@ p {
   border-radius: 10px;
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
   height: 64px;
+}
+
+.footer div {
+  margin: 10px;
 }
