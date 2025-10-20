@@ -2,4 +2,4 @@
 
 [React Business Card - Nesta Parchment](https://github.com/SaintClever/react-fundamentals)
 
-<img src="./images/business-card_NestaParchment.png" width="300" />
+<img src="./business-card/images/business-card_NestaParchment.png" width="300" />
