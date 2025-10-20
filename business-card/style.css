@@ -8,9 +8,10 @@ body {
 }
 
 .app {
-  width: 300px;
   background-color: #1A1B21;
   border-radius: 10px;
+  width: 300px;
+  margin: 50px auto;
 }
 
 img {
