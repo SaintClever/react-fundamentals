@@ -7,15 +7,15 @@ function App() {
     return (
       <Entry
         key={entry.id}
-        img={entry.img.src}
-        title={entry.title}
-        country={entry.country}
-        googleMapsLink={entry.googleMapsLink}
-        dates={entry.dates}
-        text={entry.text}
+        // img={entry.img.src}
+        // title={entry.title}
+        // country={entry.country}
+        // googleMapsLink={entry.googleMapsLink}
+        // dates={entry.dates}
+        // text={entry.text}
 
         // Or
-        // entry={entry}
+        entry={entry}
       />
     )
   })
