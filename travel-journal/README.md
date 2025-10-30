@@ -1,5 +1,5 @@
-# React Business Card
+# React Travel Journal
 
-[React Business Card - Nesta Parchment](https://github.com/SaintClever/react-fundamentals)
+[React Travel Journal - Nesta Parchment](https://github.com/SaintClever/react-fundamentals)
 
-<!-- <img src="./images/travel-jounal_NestaParchment.png" width="300" /> -->
+<img src="./images/travel-journal_NestaParchment.png" width="500" />
