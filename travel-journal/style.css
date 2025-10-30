@@ -29,7 +29,7 @@ p {
 }
 
 article {
-  margin: 20px 20px 20px 20px;
+  margin: 20px 125px 20px 125px;
   display: flex;
   padding-bottom: 20px;
   border-bottom: 1px solid #F5F5F5;
@@ -53,6 +53,7 @@ article {
 .country-name {
   letter-spacing: .1rem;
   margin-right: 5px;
+  text-transform: uppercase;
 }
 
 .google-link {
@@ -70,6 +71,6 @@ article {
   font-weight: 700;
 }
 
-.copy {
+.text {
   line-height: 1rem;
 }
