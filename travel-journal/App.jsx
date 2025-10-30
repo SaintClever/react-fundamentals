@@ -15,7 +15,10 @@ function App() {
         // text={entry.text}
 
         // Or
-        entry={entry}
+        // entry={entry}
+
+        // Or
+        {...entry}
       />
     )
   })

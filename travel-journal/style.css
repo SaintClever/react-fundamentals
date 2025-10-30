@@ -16,6 +16,7 @@ p {
   justify-content: center;
   align-items: center;
   background-color: #F55A5A;
+  margin-bottom: 50px;
 }
 
 .navbar svg {
@@ -29,7 +30,7 @@ p {
 }
 
 article {
-  margin: 20px 125px 20px 125px;
+  margin: 20px 50px 20px 50px;
   display: flex;
   padding-bottom: 20px;
   border-bottom: 1px solid #F5F5F5;
